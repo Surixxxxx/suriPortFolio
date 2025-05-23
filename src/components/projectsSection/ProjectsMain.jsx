@@ -23,14 +23,14 @@ const projects = [
     name: "Netflix Clone App",
     year: "Mar 2024",
     align: "right",
-    image: "../../public/images/website-img-3.jpg", 
+    image: "/images/website-img-3.jpg", 
     link: "https://your-netflix-clone.com",
   },
   {
     name: "Matrimony Website",
     year: "Present",
     align: "right",
- image: "../../public/images/website-img-3.jpg",
+ image: "/images/website-img-3.jpg",
     link: "https://your-matrimony-app.com",
   },
 
