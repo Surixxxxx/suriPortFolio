@@ -32,6 +32,10 @@ const skills = [
     icon: FaReact,
   },
   {
+    skill: "NextJS",
+    icon: SiNextdotjs,
+  },
+  {
     skill: "ExpressJS",
     icon: SiExpress,
   },

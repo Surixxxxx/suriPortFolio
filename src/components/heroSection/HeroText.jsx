@@ -45,7 +45,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
       >
         <a
-          href="/suriCV.pdf"
+          href="/SureshCV.pdf"
           download
          className="inline-block px-6 py-3 mt-4 sm:mt-0 mb-6 sm:mb-4 bg-orange text-white font-semibold rounded-md shadow-lg transition-all duration-300 hover:bg-white hover:text-orange hover:scale-105 hover:shadow-orange-500/50"
         >
